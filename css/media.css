@@ -1,0 +1,318 @@
+
+/* FOR-PHONE */
+
+@media only screen and (min-width:320px) and (max-width:454px)
+{
+
+    .header .inner-header
+    {
+        justify-content: center;
+    }
+
+    .header .inner-header .number
+    {
+        display: none;
+    }
+
+    .row1 .inner-row1
+    {
+        display: block;
+    }
+
+    .row1 .inner-row1>.left
+    {
+        width: 90%;
+        text-align: center;
+        margin: auto;
+        padding-top: 10px;
+    }
+
+    .row1 .inner-row1>.left h1
+    {
+        padding-bottom: 10px;
+        font-size: 22px;
+    }
+
+    .row1 .inner-row1>.left h1 span
+    {
+        font-size: 28px;
+    }
+
+    .row1 .inner-row1>.left h2
+    {
+        padding-bottom: 10px;
+        font-size: 18px;
+    }
+
+    .row1 .inner-row1>.left p
+    {
+        font-size: 16px;
+    }
+
+    .row1 .inner-row1>.left img
+    {
+        width: 100px;
+        height: 100px;
+    }
+
+    .row1 .inner-row1>.right
+    {
+        width: 90%;
+        margin: auto;
+    }
+
+    .form .forminput
+    {
+        width: 84%;
+    }
+
+    .form .captcha
+    {
+        display: block;
+    }
+
+    .form .captcha .left
+    {
+        width: 100%;
+    }
+
+    .form .captcha .right
+    {
+        width: 100%;
+    }
+
+    .form .captcha .right img
+    {
+        width: 97%;
+    }
+
+    .row2 .inner-row2 .boxes
+    {
+        display: block;
+    }
+
+    .row2 .inner-row2 .boxes .box
+    {
+        width: 100%;
+    }
+
+    .row2 .inner-row2 .heading h2
+    {
+        font-size: 20px;
+    }
+
+    .row3 .inner-row3 .containers
+    {
+        display: block;
+    }
+
+    .row3 .inner-row3 .container
+    {
+        width: 90%;
+    }
+
+    .row3 .inner-row3 .heading h2
+    {
+        font-size: 18px;
+    }
+
+    .row4 .inner-row4 .heading h2
+    {
+        font-size: 20px;
+    }
+
+    .row4 .inner-row4 .containers .container
+    {
+        width: 37%;
+        margin: 20px 5px;
+    }
+
+    .row5 .inner-row5 .heading h2
+    {
+        font-size: 20px;
+    }
+
+    .row5 .inner-row5 .icons
+    {
+        flex-wrap: wrap;
+    }
+
+    .row5 .inner-row5 .icons .inner-icon
+    {
+        width: 30%;
+    }
+
+    .row6 .inner-row6 .heading h2
+    {
+        font-size: 20px;
+    }
+
+    .row6 .inner-row6 .container
+    {
+        padding: 10px 0px;
+        display: block;
+    }
+
+    .row6 .inner-row6 .container .left
+    {
+        width: 32%;
+        margin: 0px auto 10px auto;
+        position: relative;
+        top: 0;
+        left: 0;
+    }
+
+    .row6 .inner-row6 .container .left img
+    {
+        width: 100px;
+        height: 100px;
+    }
+
+    .row6 .inner-row6 .container .right
+    {
+        padding: 0px 48px;
+    }
+
+    .row7 .inner-row7 .heading h2
+    {
+        font-size: 20px;
+    }
+
+    .row8 .inner-row8 .heading h2
+    {
+        font-size: 20px;
+    }
+
+    .row8 .inner-row8 .containers .container
+    {
+        width: 100%;
+    }
+
+    .row9 .inner-row9 .heading h2
+    {
+        font-size: 20px;
+    }
+
+    .row9 .inner-row9 .containers .container
+    {
+        width: 100%;
+        text-align: center;
+    }
+
+    .desk-footer
+    {
+        display: none;
+    }
+
+    .phone-footer
+    {
+        display: block;
+    }
+
+    .truck
+    {
+        display: none;
+    }
+
+}
+
+/* FOR-PHONE */
+
+
+
+/* FOR-TAB */
+
+@media only screen and (min-width:455px) and (max-width:768px)
+{
+
+    .row1 .inner-row1
+    {
+        display: block;
+    }
+
+    .row1 .inner-row1>.left
+    {
+        width: 100%;
+        text-align: center;
+    }
+
+    .row1 .inner-row1>.right
+    {
+        width: 100%;
+    }
+
+    .form .captcha
+    {
+        display: block;
+    }
+
+    .form .captcha .left
+    {
+        width: 100%;
+    }
+
+    .form .captcha .right
+    {
+        width: 100%;
+    }
+
+    .row2 .inner-row2 .boxes .box
+    {
+        width: 48%;
+    }
+
+    .row3 .inner-row3 .container
+    {
+        width: 45%;
+    }
+
+    .row4 .inner-row4 .containers .container
+    {
+        width: 25%;
+    }
+
+    .row5 .inner-row5 .icons
+    {
+        flex-wrap: wrap;
+    }
+
+    .row5 .inner-row5 .icons .inner-icon
+    {
+        width: 25%;
+    }
+
+    .row6 .inner-row6 .container
+    {
+        max-width: 598px;
+    }
+
+    .row6 .inner-row6 .container .left
+    {
+        left: -67px;
+        padding: 12px 4px;
+    }
+
+    .row6 .inner-row6 .container .right
+    {
+        padding: 0px 44px 0px 77px;
+    }
+
+    .row8 .inner-row8 .containers .container
+    {
+        width: 100%;
+    }
+
+    .row9 .inner-row9 .containers .container
+    {
+        width: 100%;
+        text-align: center;
+    }
+
+    .truck
+    {
+        display: none;
+    }
+
+}
+
+/* FOR-TAB */
